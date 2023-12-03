@@ -27,11 +27,14 @@ USA
 
 Our pie chart shows the distribution of winners from each country. The country with the most amount of winners is USA, and the country with the least amount of winners is ___
 
-What is the average age of all Nobel Prize winners?
-
 Which year has the most winners?
+2001
+
+Our code allowed us to see that out of all the years, 2001 had the most Nobel peace Prize winners. Our bar chart shows the distribution between the years and the number of winners in that year. 
 
 In the year with the most winners, which category was the largest?
 
+This question allowed us to see how mnay winners there were in each categiry in 2001, which was the year with the most winners. Our pie chart allows us to see ___
+
 Conclusion
-We have solved a complete data analysis example problem step by step. We performed various tasks importing the data into the DataFrame, exploring and building understanding  of the nature of data, and cleaning and preparing the data according to the problem so that it can be used to answer the question by analyzing the data.  Also, we plotted our results from the data analysis.
+
