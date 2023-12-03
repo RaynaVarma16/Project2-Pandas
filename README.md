@@ -34,7 +34,7 @@ Our code allowed us to see that out of all the years, 2001 had the most Nobel pe
 
 In the year with the most winners, which category was the largest?
 
-This question allowed us to see how mnay winners there were in each categiry in 2001, which was the year with the most winners. Our pie chart allows us to see ___
+This question allowed us to see how many winners there were in each category in 2001, which was the year with the most winners. Our pie chart allows us to see ___
 
 Conclusion
 
