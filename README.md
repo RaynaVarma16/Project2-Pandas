@@ -9,7 +9,7 @@ What is the gender breakdown of the dataset?
 Females: 65
 Males: 905
 
-Out of all the Nobel Peace Prize winners since 1901, there have been 65 females and 905 males. Our bar chart shows the distribution of males and females who habe won Nobel Peace Prizes. 
+Out of all the Nobel Peace Prize winners since 1901, there have been 65 females and 905 males. Our bar chart shows the distribution of males and females who have won Nobel Peace Prizes. 
 
 Which category had the most Nobel Prize winners in it?
 Category Counts:
